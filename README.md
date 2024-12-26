@@ -25,8 +25,8 @@ This project is a WhatsApp Web-like chat application built using React.js, Vite,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ChatApplication.git
-   cd whatsapp-clone
+   git clone https://github.com/DeepakSingh2003/ChatApplication.git
+   cd ChatApplication
    ```
 
 2. **Install Dependencies**:
